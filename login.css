@@ -1,7 +1,7 @@
 body.page {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url("https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg"); /* Change image name */
+    background-image: url("https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg"); /
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -9,10 +9,14 @@ body.page {
     justify-content: center;
     align-items: center;
 }
+.page{
+    color:white
+}
 
 .form-box {
+   
     width: 280px;
-    background: rgb(0, 0, 0);
+    background: rgb(16, 75, 103);
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -38,7 +42,7 @@ button:hover {
 
 a {
     text-decoration: none;
-    color: blue;
+    color: rgb(238, 0, 16);
 }
 
 title{
